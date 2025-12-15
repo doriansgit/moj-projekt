@@ -1,3 +1,1 @@
-Kebab
-
-Turkishhhh
+To jest mój plik treningowy kebab
