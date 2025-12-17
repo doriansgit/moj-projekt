@@ -2,4 +2,10 @@ To jest plik pizza :)))))))))
 
 dzien 2 gittttt
 
+<<<<<<< HEAD
 ZMIANA BRANCHU
+=======
+
+
+XDDDDDDDDDDDDDDDDDDD
+>>>>>>> nomain
