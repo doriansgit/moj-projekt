@@ -4,4 +4,6 @@ zadanie
 
 :))))))
 
-zmiana zrobiona na main
+Zmiana zrobiona na feature-konflikt
+
+
