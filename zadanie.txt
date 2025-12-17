@@ -1,9 +1,3 @@
-NWMOCBKONFLIKTzadanie
-
-
-
-:))))))
-
-Zmiana zrobiona na feature-konflikt
+LINIA_KONFLIKTOWA
 
 
